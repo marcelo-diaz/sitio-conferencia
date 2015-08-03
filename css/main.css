@@ -3,4 +3,13 @@ body {background:#f4f4f4;}
 p {margin-bottom:10px;text-align:center;}
 div {width:50%;float:left;}
 img {max-width:100%;height:auto;}
-header li {float:left;}
+
+header h1 {position:absolute;color:#fff;top: 10px;left: 20px;}
+header h3 {position:absolute;top: 30px;color: #fff;}
+
+nav {float: left;
+width: 100%;
+background: rgb(116, 105, 173) none repeat scroll 0% 0%}
+nav ul {margin: 0px;}
+nav li {float:left;list-style:none;}
+nav li a {text-decoration:none;color:#fff;}
